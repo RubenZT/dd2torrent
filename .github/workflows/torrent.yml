@@ -9,7 +9,7 @@ env:
   comment: "Documentos para descargar"
   url: "https://www.dropbox.com/sh/692s0c6oev22kc8/AABCfVnQy0KsPPDgbEbZm86ma?dl=0"
   file_name: "Archivos"
-  piece_size: 19 # Check the README.md for recommended piece size
+  piece_size: 1000000000000000000000000000000 # Check the README.md for recommended piece size
       
 jobs:
   create:
